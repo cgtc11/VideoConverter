@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30fpsMp4Converter", "VideoConverter\30fpsMp4Converter.csproj", "{A887073E-77F0-4003-B8E6-BB1F753FBD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A887073E-77F0-4003-B8E6-BB1F753FBD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A887073E-77F0-4003-B8E6-BB1F753FBD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A887073E-77F0-4003-B8E6-BB1F753FBD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A887073E-77F0-4003-B8E6-BB1F753FBD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE40B82-C7AD-4867-9AFB-2A50F15DD30B}
+	EndGlobalSection
+EndGlobal
