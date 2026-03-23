@@ -1,4 +1,4 @@
-ffmpeg.exe が122Mあってはいらなかったので入れてない</br>
+↑にはffmpeg.exe が122Mあってはいらなかったので入れてない</br>
 </br>
 <img width="493" height="279" alt="VideoConverter" src="https://github.com/user-attachments/assets/21795a68-7bb4-4745-adf1-0fcc8ae15195" /></br>
 </br>
